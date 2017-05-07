@@ -7,4 +7,4 @@ Term 1
 ## Project 4 : Advanced Lane Lines - https://github.com/bhatiarajesh/CarND-Advanced-Lane-Lines
 ## Project 5 : Vehicle Detection - https://github.com/bhatiarajesh/CarND-Vehicle-Detection
 Term 2
-## Project 5 : Extended Kalman Filter - https://github.com/bhatiarajesh/CarND-Extended-Kalman-Filter-Project
+## Project 6 : Extended Kalman Filter - https://github.com/bhatiarajesh/CarND-Extended-Kalman-Filter-Project
