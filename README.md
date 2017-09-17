@@ -13,3 +13,4 @@ Projects under the self driving car nano degree program from Udacity
 ## Project 9 : Model Predictive Controller (MPC) - https://github.com/bhatiarajesh/CarND-MPC-Project
 ### Term 3
 ## Project 10 : Path Planner - https://github.com/bhatiarajesh/CarND-Path-Planning-Project
+## Project 11 : Semantic Segmentation - https://github.com/bhatiarajesh/CarND-Semantic-Segmentation
