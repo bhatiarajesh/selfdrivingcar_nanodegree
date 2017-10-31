@@ -14,3 +14,5 @@ Projects under the self driving car nano degree program from Udacity
 ### Term 3
 ## Project 10 : Path Planner - https://github.com/bhatiarajesh/CarND-Path-Planning-Project
 ## Project 11 : Semantic Segmentation - https://github.com/bhatiarajesh/CarND-Semantic-Segmentation
+## Project 12 : System integration (Final) project - https://github.com/bhatiarajesh/system-integration
+It’s not about the pieces but how they work together. The objective of the final project was to create code with a team to drive a vehicle in both a Unity-based simulator and a real-world Lincoln MKZ around a closed-circuit test-track. This repository contains all ROS nodes to implement the core functionality of an autonomous vehicle system.
