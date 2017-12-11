@@ -17,5 +17,8 @@ Projects under the self driving car nano degree program from Udacity
 ## Project 12 : System integration (Final) project - https://github.com/bhatiarajesh/system-integration
 It’s not about the pieces but how they work together. The objective of the final project was to create code with a team to drive a vehicle in both a Unity-based simulator and a real-world Lincoln MKZ around a closed-circuit test-track. This repository contains all ROS nodes to implement the core functionality of an autonomous vehicle system.
 Here is the video of the final submission working on Carla, Udacity's self driving car, driving in a test track - 
-[![Watch the video](https://vimeo.com/242918172)](https://vimeo.com/242918172)
+
+[![Watch the video](https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F667314989_1280x720.webp&src1=https%3A%2F%2Ff.vimeocdn.com%2Fimages_v6%2Fshare%2Fplay_icon_overlay.png)](https://vimeo.com/242918172)
+
+[![View Certificate](https://files.slack.com/files-pri/T2HQV035L-F8C1C2DFT/rajesh-bhatia-selfdrivingcarengineer-nanodegree-certificate.png)](https://files.slack.com/files-pri/T2HQV035L-F8C1C2DFT/rajesh-bhatia-selfdrivingcarengineer-nanodegree-certificate.png)
 
