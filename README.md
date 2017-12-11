@@ -16,3 +16,6 @@ Projects under the self driving car nano degree program from Udacity
 ## Project 11 : Semantic Segmentation - https://github.com/bhatiarajesh/CarND-Semantic-Segmentation
 ## Project 12 : System integration (Final) project - https://github.com/bhatiarajesh/system-integration
 It’s not about the pieces but how they work together. The objective of the final project was to create code with a team to drive a vehicle in both a Unity-based simulator and a real-world Lincoln MKZ around a closed-circuit test-track. This repository contains all ROS nodes to implement the core functionality of an autonomous vehicle system.
+Here is the video of the final submission working on Carla, Udacity's self driving car, driving in a test track - 
+[![Watch the video](https://vimeo.com/242918172)](https://vimeo.com/242918172)
+
