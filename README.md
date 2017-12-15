@@ -21,5 +21,9 @@ Here is the video of the final submission working on Carla, Udacity's self drivi
 
 [![Watch the video](https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F667314989_1280x720.webp&src1=https%3A%2F%2Ff.vimeocdn.com%2Fimages_v6%2Fshare%2Fplay_icon_overlay.png)](https://vimeo.com/242918172)
 
+## Graduation details 
+Graduation Event - Certificate presentation by Sebastin Thurn, Founder of the Google Self driving car team and Udacity CEO. https://en.wikipedia.org/wiki/Sebastian_Thrun
+![Graduation Event with Sebastin Thurn](https://github.com/bhatiarajesh/selfdrivingcar_nanodegree/blob/master/Graduation-Event-Photo-With-SebastinThurn.jpg)
+
 Completion Certificate
 ![View Certificate](https://github.com/bhatiarajesh/selfdrivingcar_nanodegree/blob/master/Rajesh-Bhatia-SelfDrivingCarEngineer-Nanodegree-Certificate.png)
